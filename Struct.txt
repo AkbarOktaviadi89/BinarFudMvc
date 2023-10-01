@@ -1,0 +1,20 @@
+=============================
+Binar Food
+=============================
+
+Terima kasih sudah memesan 
+di Binar Food
+
+Dibawah ini adalah pesanan anda
+
+Nasi Goreng 	 2 	 Rp. 24000
+-------------------------------+
+Total 			2	Rp. 24000
+
+
+Pembayaran : BinarCash
+
+=============================
+Simpan Struk ini sebagai 
+bukti pembayaran
+=============================
